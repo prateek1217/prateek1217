@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Khandelwal</h1>
-<h3 align="center">🚀 Building Scalable Systems | 🧠 1500+ DSA Problems Solved | 💻 Backend Dev | 💡 Technology Intern @ Scaler (InterviewBit) | ICPC Regionalist</h3>
+<h3 align="center">🚀 Building Scalable Systems | 🧠 1500+ DSA Problems Solved | 💻 Backend Dev | 💡 Ex-  Scaler (InterviewBit), Unstop, Datacurve.AI ( YC W24 )  | ICPC Regionalist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek1217" alt="prateek1217" /></a> </p>
 
